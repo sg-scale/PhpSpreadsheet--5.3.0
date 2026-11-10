@@ -1221,16 +1221,16 @@
         },
         {
             "name": "mitoteam/jpgraph",
-            "version": "10.5.1",
+            "version": "10.5.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mitoteam/jpgraph.git",
-                "reference": "62f31c43933ff1419e59e68df8e04cd25de93131"
+                "reference": "3d42a9f427cbf2fc2683a7631d9f9e992ccc7f06"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mitoteam/jpgraph/zipball/62f31c43933ff1419e59e68df8e04cd25de93131",
-                "reference": "62f31c43933ff1419e59e68df8e04cd25de93131",
+                "url": "https://api.github.com/repos/mitoteam/jpgraph/zipball/3d42a9f427cbf2fc2683a7631d9f9e992ccc7f06",
+                "reference": "3d42a9f427cbf2fc2683a7631d9f9e992ccc7f06",
                 "shasum": ""
             },
             "require": {
@@ -1270,9 +1270,9 @@
             ],
             "support": {
                 "issues": "https://github.com/mitoteam/jpgraph/issues",
-                "source": "https://github.com/mitoteam/jpgraph/tree/10.5.1"
+                "source": "https://github.com/mitoteam/jpgraph/tree/10.5.5"
             },
-            "time": "2025-10-14T07:03:12+00:00"
+            "time": "2026-10-09T07:25:02+00:00"
         },
         {
             "name": "mpdf/mpdf",
@@ -5797,5 +5797,5 @@
     "platform-overrides": {
         "php": "8.1.99"
     },
-    "plugin-api-version": "2.6.0"
+    "plugin-api-version": "2.9.0"
 }
